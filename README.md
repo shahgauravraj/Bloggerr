@@ -1,5 +1,7 @@
 # Bloggerr
 
+![alt text](https://lottiefiles.com/18945-blogging)
+
 Bloggerr is a modern web application which allows its users to post and read blogs by creating an account. It allows anyone to read the posts put
 on the website. It is basically built using PHP and Laravel for backend and a bit of HTML and CSS for frontend portions. MySQL is used for database service provided on PHPMyAdmin.
 
